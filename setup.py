@@ -8,6 +8,8 @@ setup(
     author='SalemShaikh',
     author_email='salem.shaikh@cipla.com',
     url='https://github.com/salemshaikh/cip_api',
-    install_requires = [
-        "<plotly>=<5.17.0";"<matplotlib>=3.8.2"]
+    install_requires=[
+        "plotly>=5.17.0",
+        "matplotlib>=3.8.2"
+    ]
 )
