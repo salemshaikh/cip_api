@@ -1,5 +1,8 @@
 from setuptools import setup, find_packages
 
+
+requirements = [requirement for requirement in open('requirements.txt')]
+
 setup(
     name='apis',
     version='0.1',
