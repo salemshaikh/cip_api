@@ -10,6 +10,6 @@ setup(
     url='https://github.com/salemshaikh/cip_api',
     install_requires=[
         "plotly==5.17.0",
-        "matplotlib==3.8.0",
+        "matplotlib==3.8.1"  # Set to the correct version that exists
     ]
 )
