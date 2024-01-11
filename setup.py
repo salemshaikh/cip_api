@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='api',
+    name='apis',
     version='0.1',
     packages=find_packages(),
     description='Python package for API',
