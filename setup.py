@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='cip',
+    name='api',
     version='0.1',
     packages=find_packages(),
     description='Python package for API',
@@ -10,6 +10,6 @@ setup(
     url='https://github.com/salemshaikh/cip_api',
     install_requires=[
         "plotly==5.17.0",
-        "matplotlib"  # Set to the correct version that exists
+        "matplotlib"  
     ]
 )
